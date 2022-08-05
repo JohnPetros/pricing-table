@@ -10,7 +10,7 @@
 
 Projeto de uma página com uma tabela com as opções de preços/planos do produto/serviço.
 
- <h3 align="center"><a href="https://johnpetros.github.io/todo-list/">Veja a Página funcionando 👀</a></h3>
+ <h3 align="center"><a href="https://johnpetros.github.io/pricing-table/">Veja a Página funcionando 👀</a></h3>
 
 <hr>
 
